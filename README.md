@@ -1,2 +1,2 @@
 # Image-classification
-🚀 Deep Learning-based Binary Image Classifier for PCB Defect Detection using CNN (with custom loss function &amp; real-world dataset)
+😊 Deep Learning Model for Binary Image Emotion Classification – Classifies faces as Happy or Sad using CNN
